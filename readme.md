@@ -27,3 +27,7 @@
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/pedro_sousa_figueredo/"/></a>
 </p>  
+
+[![pedroelias520](https://github-readme-stats.vercel.app/api?username=pedroelias520&theme=merko)](https://github.com/pedroelias520/)
+
+[![pedroelias520](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroelias520&hide=html&layout=compact&theme=merko)](https://github.com/pedroelias520/)
