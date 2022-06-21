@@ -1,33 +1,51 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<div align="center">
+  <img height="200" src="https://drive.google.com/file/d/1HLqyEIokFzDxigf7L2zlMDNPPK82H0nB/view?usp=sharing"  />
+</div>
 
-<p align="left"> 
-  Hello my name is <strong>Pedro Elias</strong>, I am a <strong>Full-stack programmer</strong>, I am a student of systems analysis and development.
-</p>
+###
 
-<p align="left">
-  🦄 Skills: <strong>Flutter, React Native, Kotlin, Java, Javascripy, React, Python, C </strong>
-</p>
+<br clear="both">
 
-<p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, Android Studio, Spyder, Netbeans, Photoshop, Axure RP 9</strong>
-</p>
+<h1 align="center">Hello, friend!</h1>
 
-<p align="left">
-  💌 If you need help with any project, or had an innovative idea, don't hesitate to contact me: ⤵️
-</p>
+###
 
-<p align="left">
-  
-  <a href="https://www.linkedin.com/in/pedro-elias-figueredo-30b889172/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-elias-figueredo-30b889172/" /></a>
- 
-  <a href="https://www.facebook.com/pedro.elias.351104/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/pedro.elias.351104/"/></a>
+<p align="left">Hello my name is Pedro Elias, I am a Full-stack programmer, I am a student of systems analysis and development.<br><br>🦄 Skills: Flutter, React Native, Kotlin, Java, Javascripy, React, Python, C<br><br>💼 Ferramentas: Visual Studio Code, Android Studio, Spyder, Netbeans, Photoshop, Axure RP 9<br><br>💌 If you need help with any project, or had an innovative idea, don't hesitate to contact me:</p>
 
-  <a href="https://www.instagram.com/pedro_sousa_figueredo/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/pedro_sousa_figueredo/"/></a>
-</p>  
+###
 
-[![pedroelias520](https://github-readme-stats.vercel.app/api?username=pedroelias520&theme=merko)](https://github.com/pedroelias520/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-sousa-figueredo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCRjyAjmKLzjcY_3TwO_V3TA" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/codezone_oficial/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
+  </a>
+  <a href="https://medium.com/@epedro520" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="medium logo"  />
+  </a>
+</div>
 
-[![pedroelias520](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroelias520&hide=html&layout=compact&theme=merko)](https://github.com/pedroelias520/)
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-dark&locale=en&hide_border=false&username=pedroelias520" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=pedroelias520" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img href="https://raw.githubusercontent.com/pedroelias/pedroelias/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=@epedro520&theme=radical" alt="Layout with last medium posts"  />
+</div>
+
+###
