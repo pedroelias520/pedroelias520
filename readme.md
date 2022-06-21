@@ -40,7 +40,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/pedroelias/pedroelias/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/pedroelias520/pedroelias520/blob/main/snake.yml" alt="Snake animation" />
 
 ###
 
